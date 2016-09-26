@@ -1168,6 +1168,51 @@ span.bar {
 
 /* End  Portfolio section */
 
+/* ---------------------------------------
+			Start  intj Section
+----------------------------------------- */
+
+.intj {
+    padding: 80px 0;
+    background: #333 url(../img/intj-header.png) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+.intj .qoute-wrapper {
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+.intj .qoute-wrapper p {
+    font-size: 1.2rem;
+    width: 83%;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.intj .qoute-wrapper p.words .intj-mark {
+    font-size: 3rem;
+}
+.intj .qoute-wrapper p.words .intj-mark.open {
+    margin-right: 10px;
+}
+.intj .qoute-wrapper p.words .intj-mark.end {
+    margin-left: 10px;
+}
+.intj .qoute-wrapper p.intjauthor {
+    font-size: 2rem;
+    color: #ddd;
+    margin-top: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* End  Quote Section */
+
 
 /* ---------------------------------------
 			Start  Footer Section
