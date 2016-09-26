@@ -130,16 +130,16 @@ $(document).ready(function() {
         });
         // start numbers animate at skills section //
         $("#chart_num_1").animateNumber({
-            number: 88
+            number: 55
         }, 1500);
         $("#chart_num_2").animateNumber({
-            number: 95
+            number: 30
         }, 1500);
         $("#chart_num_3").animateNumber({
-            number: 73
+            number: 35
         }, 1500);
         $("#chart_num_4").animateNumber({
-            number: 55
+            number: 20
         }, 1500);
     }, {
         accX: 0,
