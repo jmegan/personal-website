@@ -139,7 +139,7 @@ $(document).ready(function() {
             number: 35
         }, 1500);
         $("#chart_num_4").animateNumber({
-            number: 20
+            number: 60
         }, 1500);
     }, {
         accX: 0,
